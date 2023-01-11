@@ -1,0 +1,8 @@
+image:
+  repository: ghcr.io/olvidoinsomne/shelloperator-testing
+  pullPolicy: IfNotPresent
+  tag: main
+
+use_tls: true
+replicaCount: 1
+fullname: kme-shelloperator
